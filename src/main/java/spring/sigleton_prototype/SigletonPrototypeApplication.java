@@ -9,5 +9,4 @@ public class SigletonPrototypeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SigletonPrototypeApplication.class, args);
 	}
-
 }
